@@ -1,0 +1,6 @@
+# -*- coding: utf-8 -*-
+EMAIL = ''
+PW = ''
+
+# cached login data will get saved here
+AUTH_FILE = 'auth.json'

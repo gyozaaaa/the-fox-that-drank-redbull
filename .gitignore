@@ -1,0 +1,5 @@
+.env
+local_config.py
+auth.json
+.idea/
+__pycache__/
